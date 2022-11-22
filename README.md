@@ -2,6 +2,7 @@
 > This is my github,  I found it, all on my own. It's little, and broken, but still good... Yeah. Still good. <img src="Stitch.svg" width="30" height="30"/>
 
 [![wakatime](https://wakatime.com/badge/user/c67c40d7-4aa0-442a-8611-cde1a324fa92.svg)](https://wakatime.com/@c67c40d7-4aa0-442a-8611-cde1a324fa92)
+[![wakatime](https://wakatime.com/badge/github/tanglesites-git/Guardian.svg)](https://wakatime.com/badge/github/tanglesites-git/Guardian)
 
 ## Are ya impressed yet? 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanglesites-git&include_all_commits=true&show_icons=true&hide=contribs,stars&theme=tokyonight)](https://github.com/tanglesites-git/github-readme-stats)
