@@ -1,16 +1,33 @@
-### Hi there 👋
+# Tanglesites
+> This is my github,  I found it, all on my own. It's little, and broken, but still good... Yeah. Still good. <img src="Stitch.svg" width="30" height="30"/>
 
-<!--
-**tanglesites-git/tanglesites-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![wakatime](https://wakatime.com/badge/user/c67c40d7-4aa0-442a-8611-cde1a324fa92.svg)](https://wakatime.com/@c67c40d7-4aa0-442a-8611-cde1a324fa92)
 
-Here are some ideas to get you started:
+## Are ya impressed yet? 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanglesites-git&include_all_commits=true&show_icons=true&hide=contribs,stars&theme=tokyonight)](https://github.com/tanglesites-git/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## It doesn't get pissed off. It doesn't get happy, it doesn't get sad, it doesn't laugh at your jokes... It just runs programs.
+<p style="text-align: center;">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanglesites-git&repo=Guardian&theme=tokyonight" width="32%"/>
+  </a>
+</p>
+
+## I see ‘Chopsticks.'”
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanglesites-git&langs_count=8&theme=tokyonight)](https://github.com/tanglesites-git/github-readme-stats)
+
+
+## Right. Well, I mean, when it came to stuff like that… I could always just play.
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanglesites&theme=tokyonight)](https://github.com/tanglesites/github-readme-stats)
+
+## References
+**Github-Readme-Stats:** https://github.com/anuraghazra/github-readme-stats<br/>
+**Wakatime:** https://wakatime.com
+
+### Footer
+<hr/>
+<footer style="font-size: 12px;">
+  All other trademarks referenced in the this README.md are the property of their respective owners. Reference on the Services to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier, or otherwise does not constitute or imply endorsement, sponsorship, or recommendation thereof by us or any other affiliation.
+</footer>
+
+### I’d prefer you just said thank you and went on your way.
