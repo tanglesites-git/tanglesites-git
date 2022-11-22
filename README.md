@@ -20,7 +20,7 @@
 ## Right. Well, I mean, when it came to stuff like that… I could always just play.
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanglesites&theme=tokyonight)](https://github.com/tanglesites/github-readme-stats)
 
-## References: This… stuff’? Oh. Okay. I see. You think this has nothing to do with you
+## References: ’This… stuff’? Oh. Okay. I see. You think this has nothing to do with you
 **Github-Readme-Stats:** https://github.com/anuraghazra/github-readme-stats<br/>
 **Wakatime:** https://wakatime.com
 
