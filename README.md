@@ -10,16 +10,16 @@
 ## It doesn't get pissed off. It doesn't get happy, it doesn't get sad, it doesn't laugh at your jokes... It just runs programs.
 <p style="text-align: center;">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanglesites-git&repo=Guardian&theme=tokyonight" width="32%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanglesites-git&repo=Guardian&theme=tokyonight&env=PAT_1" width="32%"/>
   </a>
 </p>
 
 ## I see ‘Chopsticks.'”
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanglesites-git&langs_count=8&theme=tokyonight)](https://github.com/tanglesites-git/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanglesites-git&langs_count=8&theme=tokyonight&env=PAT_1)](https://github.com/tanglesites-git/github-readme-stats)
 
 
 ## Right. Well, I mean, when it came to stuff like that… I could always just play.
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanglesites&theme=tokyonight)](https://github.com/tanglesites/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanglesites&theme=tokyonight&env=PAT_1)](https://github.com/tanglesites/github-readme-stats)
 
 ## References: ’This… stuff’? Oh. Okay. I see. You think this has nothing to do with you
 **Github-Readme-Stats:** https://github.com/anuraghazra/github-readme-stats<br/>
