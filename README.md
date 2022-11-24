@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/github/tanglesites-git/Guardian.svg)](https://wakatime.com/badge/github/tanglesites-git/Guardian)
 
 ## Are ya impressed yet? 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanglesites-git&include_all_commits=true&show_icons=true&hide=contribs,stars&theme=tokyonight)](https://github.com/tanglesites-git/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanglesites-git&include_all_commits=true&show_icons=true&hide=contribs,stars&theme=tokyonight&env=PAT_1)](https://github.com/tanglesites-git/github-readme-stats)
 
 ## It doesn't get pissed off. It doesn't get happy, it doesn't get sad, it doesn't laugh at your jokes... It just runs programs.
 <p style="text-align: center;">
