@@ -12,14 +12,12 @@
 </p>
 
 ## I see 'Chopsticks.'
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanglesites-git&langs_count=8&theme=tokyonight&env=PAT_1)](https://github.com/tanglesites-git/github-readme-stats)
+<img src="https://wakatime.com/share/@Tanglesites/a8c1d971-d847-4833-bfb3-6e60a0138ea9.svg" width="550"/>
 
 
 ## Right. Well, I mean, when it came to stuff like that… I could always just play.
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanglesites&theme=tokyonight&env=PAT_1)](https://github.com/tanglesites/github-readme-stats)
+<img src="https://wakatime.com/share/@Tanglesites/f2412204-676d-4e63-a256-f87695cc33fe.svg" width="550"/>
 
-## Languages
-<figure><embed src="https://wakatime.com/share/@Tanglesites/cb6c79d0-7d64-4931-bff8-41052d3d8211.svg"></embed></figure>
 
 ## References: ’This… stuff’? Oh. Okay. I see. You think this has nothing to do with you
 **Github-Readme-Stats:** https://github.com/anuraghazra/github-readme-stats<br/>
