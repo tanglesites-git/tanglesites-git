@@ -12,11 +12,11 @@
 </p>
 
 ## I see 'Chopsticks.'
-<img src="https://wakatime.com/share/@Tanglesites/a8c1d971-d847-4833-bfb3-6e60a0138ea9.svg" width="550"/>
+<img src="https://wakatime.com/share/@Tanglesites/253fa870-46b4-475b-bed1-93109964fc1c.svg" width="550"/>
 
 
 ## Right. Well, I mean, when it came to stuff like that… I could always just play.
-<img src="https://wakatime.com/share/@Tanglesites/f2412204-676d-4e63-a256-f87695cc33fe.svg" width="550"/>
+<img src="https://wakatime.com/share/@Tanglesites/f5f72575-c948-4ef2-94de-61e8a7ee5c9a.svg" width="550"/>
 
 
 ## References: ’This… stuff’? Oh. Okay. I see. You think this has nothing to do with you
