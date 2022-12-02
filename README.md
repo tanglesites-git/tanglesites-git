@@ -6,8 +6,11 @@
 
 ## It doesn't get pissed off. It doesn't get happy, it doesn't get sad, it doesn't laugh at your jokes... It just runs programs.
 <p style="text-align: center;">
-  <a>
+  <a style="padding: 1rem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanglesites-git&repo=Guardian&theme=tokyonight&env=PAT_1" width="32%"/>
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanglesites-git&repo=GuardianManifest&theme=tokyonight&env=PAT_1" width="32%"/>
   </a>
 </p>
 
