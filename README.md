@@ -4,7 +4,7 @@
 ## Are ya impressed yet? 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanglesites-git&include_all_commits=true&show_icons=true&hide=contribs,stars&theme=tokyonight&env=PAT_1)](https://github.com/tanglesites-git/github-readme-stats)
 
-## It doesn't get pissed off. It doesn't get happy, it doesn't get sad, it doesn't laugh at your jokes... It just runs programs.
+<!-- ## It doesn't get pissed off. It doesn't get happy, it doesn't get sad, it doesn't laugh at your jokes... It just runs programs. -->
 <!-- <p style="text-align: center;">
   <a style="padding: 1rem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanglesites-git&repo=Guardian&theme=tokyonight&env=PAT_1" width="32%"/>
