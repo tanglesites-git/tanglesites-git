@@ -54,3 +54,13 @@
 
 </details>
 </p>
+
+<p align="left" style="padding-block-start:16px;">
+<details align="left">
+  <summary>GitHub Stats</summary>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="left"
+      alt="tanglesites GitHub Stats" src="https://github-readme-stats-rho-cyan-24.vercel.app/api/top-langs/?username=tanglesites-git" />
+    </a>
+</details>
+</p>
