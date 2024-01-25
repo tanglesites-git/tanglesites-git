@@ -42,25 +42,39 @@
 
 ---
 
-<p align="left" style="padding-block-start:16px;">
-<details align="left">
-  <summary>GitHub Stats</summary>
+### Pinned Respositories
 
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=DestinyViewer&theme=dark"  alt="Pinned Repository"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=BudgetApp&theme=dark"  alt="Pinned Repository"/>
+  </a>
+</p>
+
+<br />
+<br />
+
+---
+
+<details align="left" style="padding-block-start:16px;display:block;">
+  <summary>GitHub Stats</summary>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
 <img
       align="left"
       alt="tanglesites GitHub Stats"
       src="https://github-readme-stats-rho-cyan-24.vercel.app/api?username=tanglesites-git&show_icons=true&hide_border=false&title_color=ff652f&rank_icon=github&custom_title=Tanglesites%20Stats&show=reviews,prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"
     />
+</a>
 
 </details>
-</p>
 
-<p align="left" style="padding-block-start:16px;">
-<details align="left">
+<details align="left" style="padding-block-start:16px;display:block;">
   <summary>GitHub Stats</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="left"
-      alt="tanglesites GitHub Stats" src="https://github-readme-stats-rho-cyan-24.vercel.app/api/top-langs/?username=tanglesites-git" />
+      alt="tanglesites GitHub Stats" src="https://github-readme-stats-rho-cyan-24.vercel.app/api/top-langs/?username=tanglesites-git&custom_title=Favorite%20Languages" />
     </a>
 </details>
-</p>
