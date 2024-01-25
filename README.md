@@ -15,13 +15,13 @@
 
 ### My Tech Stack
 
-![dotnet core icon](./icons/NET_Core_Logo.svg)
-![dotnet core icon](./icons/react-2.svg)
-![dotnet core icon](./icons/typescript-design-assets/ts-logo-128.svg)
-![dotnet core icon](./icons/CSS3_logo_and_wordmark.svg)
-![dotnet core icon](./icons/sass-1.svg)
-![dotnet core icon](./icons/python-powered-w.svg)
-![dotnet core icon](./icons/sql-database-generic-svgrepo-com.svg)
+![dotnet core icon](./icons/NET_Core_Logo.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![dotnet core icon](./icons/react-2.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![dotnet core icon](./icons/typescript-design-assets/ts-logo-128.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![dotnet core icon](./icons/CSS3_logo_and_wordmark.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![dotnet core icon](./icons/sass-1.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![dotnet core icon](./icons/python-powered-w.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![dotnet core icon](./icons/sql-database-generic-svgrepo-com.svg)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Tools that I use
 
