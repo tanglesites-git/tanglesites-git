@@ -47,4 +47,4 @@
 
 [![tanglesites GitHub Stats](https://github-readme-stats-rho-cyan-24.vercel.app/api?username=tanglesites-git&show_icons=true&hide_border=false&title_color=ff652f&rank_icon=github&custom_title=Tanglesites%20Stats&show=reviews,prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-[![tanglesites GitHub Stats](https://github-readme-stats-rho-cyan-24.vercel.app/api/top-langs/?username=tanglesites-git&custom_title=Favorite%20Languages&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![tanglesites GitHub Stats](https://github-readme-stats-rho-cyan-24.vercel.app/api/top-langs/?username=tanglesites-git&custom_title=Favorite%20Languages&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
