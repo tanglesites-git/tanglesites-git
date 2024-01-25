@@ -35,8 +35,8 @@
 
 ### Pinned Respositories
 
-[![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=DestinyViewer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=BudgetApp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=DestinyViewer&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=BudgetApp&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
