@@ -46,10 +46,10 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=DestinyViewer&theme=dark"  alt="Pinned Repository"/>
+    <img align="left" style="padding-right:10px;" src="https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=DestinyViewer&theme=dark"  alt="Pinned Repository"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=BudgetApp&theme=dark"  alt="Pinned Repository"/>
+    <img align="left" style="padding-right:10px;" src="https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=BudgetApp&theme=dark"  alt="Pinned Repository"/>
   </a>
 </p>
 
@@ -57,6 +57,8 @@
 <br />
 
 ---
+
+### Information
 
 <details align="left" style="padding-block-start:16px;display:block;">
   <summary>GitHub Stats</summary>
