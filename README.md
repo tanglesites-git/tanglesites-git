@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://github.com/tanglesites-git#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://github.com/tanglesites-git#gh-dark-mode-only)
+[![website](./icons/globe-light.svg)](https://github.com/tanglesites-git#gh-light-mode-only)
+[![website](./icons/globe-dark.svg)](https://github.com/tanglesites-git#gh-dark-mode-only)
 
 ### My Tech Stack
 
