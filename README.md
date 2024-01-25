@@ -25,11 +25,11 @@
 
 ### Tools that I use
 
-![dotnet core icon](./icons/github-mark-c791e9551fe4/github-mark/github-mark-white.svg)
-![dotnet core icon](./icons/Vitejs-logo.svg)
-![dotnet core icon](./icons/Neovim-mark.svg)
-![dotnet core icon](./icons/visual-studio-code-icons/visual-studio-code-icons/vscode.svg)
-![dotnet core icon](./icons/Amazon_Web_Services_Logo.svg)
+![dotnet core icon](./icons/github-mark-c791e9551fe4/github-mark/github-mark-white.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![dotnet core icon](./icons/Vitejs-logo.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![dotnet core icon](./icons/Neovim-mark.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![dotnet core icon](./icons/visual-studio-code-icons/visual-studio-code-icons/vscode.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![dotnet core icon](./icons/Amazon_Web_Services_Logo.svg)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
