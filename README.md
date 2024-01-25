@@ -37,8 +37,9 @@
     <img align="left" src="./icons/Amazon_Web_Services_Logo.svg" alt="dotnet core icon" width="75" style="margin-right: 10px;"/>
 </p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p align="left" style="padding-block-start:16px;">
+<details align="left">
+  <summary>GitHub Stats</summary>
 
 <img
       align="left"
@@ -47,3 +48,4 @@
     />
 
 </details>
+</p>
