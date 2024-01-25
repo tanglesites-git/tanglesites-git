@@ -1,6 +1,6 @@
-**![Banner](./YouTubeBanner1.png)**
+![Banner](./YouTubeBanner1.png)
 
-<h1 align="center">Tanglesites Profile</h1>
+# Tanglesites Profile
 
 ### Connect with me:
 
@@ -15,43 +15,28 @@
 
 ### My Tech Stack
 
-<p>
-    <img align="left" src="./icons/NET_Core_Logo.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-    <img align="left" src="./icons/react-2.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-    <img align="left" src="./icons/typescript-design-assets/ts-logo-128.png" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-    <img align="left" src="./icons/CSS3_logo_and_wordmark.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-    <img align="left" src="./icons/sass-1.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-    <img align="left" src="./icons/python-powered-w.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-    <img align="left" src="./icons/sql-database-generic-svgrepo-com.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-</p>
-
-<br/><br/>
+![dotnet core icon](./icons/NET_Core_Logo.svg)
+![dotnet core icon](./icons/react-2.svg)
+![dotnet core icon](./icons/typescript-design-assets/ts-logo-128.svg)
+![dotnet core icon](./icons/CSS3_logo_and_wordmark.svg)
+![dotnet core icon](./icons/sass-1.svg)
+![dotnet core icon](./icons/python-powered-w.svg)
+![dotnet core icon](./icons/sql-database-generic-svgrepo-com.svg)
 
 ### Tools that I use
 
-<p style="padding-block-start:16px;">
-    <img align="left" src="./icons/github-mark-c791e9551fe4/github-mark/github-mark-white.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-    <img align="left" src="./icons/Vitejs-logo.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-    <img align="left" src="./icons/Neovim-mark.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-    <img align="left" src="./icons/visual-studio-code-icons/visual-studio-code-icons/vscode.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
-    <img align="left" src="./icons/Amazon_Web_Services_Logo.svg" alt="dotnet core icon" width="75" style="margin-right: 10px;"/>
-</p>
-
-<br />
-<br />
+![dotnet core icon](./icons/github-mark-c791e9551fe4/github-mark/github-mark-white.svg)
+![dotnet core icon](./icons/Vitejs-logo.svg)
+![dotnet core icon](./icons/Neovim-mark.svg)
+![dotnet core icon](./icons/visual-studio-code-icons/visual-studio-code-icons/vscode.svg)
+![dotnet core icon](./icons/Amazon_Web_Services_Logo.svg)
 
 ---
 
 ### Pinned Respositories
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" style="padding-right:10px;" src="https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=DestinyViewer&theme=dark"  alt="Pinned Repository"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" style="padding-right:10px;" src="https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=BudgetApp&theme=dark"  alt="Pinned Repository"/>
-  </a>
-</p>
+[![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=DestinyViewer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=BudgetApp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
@@ -60,23 +45,6 @@
 
 ### Information
 
-<details align="left" style="padding-block-start:16px;display:block;">
-  <summary>GitHub Stats</summary>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img
-      align="left"
-      alt="tanglesites GitHub Stats"
-      src="https://github-readme-stats-rho-cyan-24.vercel.app/api?username=tanglesites-git&show_icons=true&hide_border=false&title_color=ff652f&rank_icon=github&custom_title=Tanglesites%20Stats&show=reviews,prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"
-    />
-</a>
+[![tanglesites GitHub Stats](https://github-readme-stats-rho-cyan-24.vercel.app/api?username=tanglesites-git&show_icons=true&hide_border=false&title_color=ff652f&rank_icon=github&custom_title=Tanglesites%20Stats&show=reviews,prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
-
-<details align="left" style="padding-block-start:16px;display:block;">
-  <summary>GitHub Stats</summary>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="left"
-      alt="tanglesites GitHub Stats" src="https://github-readme-stats-rho-cyan-24.vercel.app/api/top-langs/?username=tanglesites-git&custom_title=Favorite%20Languages" />
-    </a>
-</details>
+[![tanglesites GitHub Stats](https://github-readme-stats-rho-cyan-24.vercel.app/api/top-langs/?username=tanglesites-git&custom_title=Favorite%20Languages&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
