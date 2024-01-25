@@ -6,6 +6,9 @@
 
 [![website](./icons/globe-light.svg)](https://github.com/tanglesites-git#gh-light-mode-only)
 [![website](./icons/globe-dark.svg)](https://github.com/tanglesites-git#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./icons/globe-light.svg)](https://www.linkedin.com/in/joseph-burton-96361b24a/#gh-light-mode-only)
+[![website](./icons/linkedin-dark.svg)](https://www.linkedin.com/in/joseph-burton-96361b24a/#gh-dark-mode-only)
 
 ### My Tech Stack
 
