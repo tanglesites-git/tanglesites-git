@@ -19,6 +19,8 @@
     <img align="left" src="./icons/NET_Core_Logo.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
     <img align="left" src="./icons/react-2.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
     <img align="left" src="./icons/typescript-design-assets/ts-logo-128.png" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
+    <img align="left" src="./icons/CSS3_logo_and_wordmark.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
+    <img align="left" src="./icons/sass-1.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
     <img align="left" src="./icons/python-powered-w.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
     <img align="left" src="./icons/sql-database-generic-svgrepo-com.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
 </p>
@@ -34,3 +36,14 @@
     <img align="left" src="./icons/visual-studio-code-icons/visual-studio-code-icons/vscode.svg" alt="dotnet core icon" width="50" height="50" style="margin-right: 10px;"/>
     <img align="left" src="./icons/Amazon_Web_Services_Logo.svg" alt="dotnet core icon" width="75" style="margin-right: 10px;"/>
 </p>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+<img
+      align="left"
+      alt="tanglesites GitHub Stats"
+      src="https://github-readme-stats-rho-cyan-24.vercel.app/api?username=tanglesites-git&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"
+    />
+
+</details>
