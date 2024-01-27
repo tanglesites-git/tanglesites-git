@@ -53,6 +53,6 @@
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/tanglesites-git/tanglesites-git/issues/2) in [tanglesites-git/tanglesites-git](https://github.com/tanglesites-git/tanglesites-git)
-2. ❗ Opened issue [#1](https://github.com/tanglesites-git/tanglesites-git/issues/1) in [tanglesites-git/tanglesites-git](https://github.com/tanglesites-git/tanglesites-git)
+1. ❗ Opened issue [#2](https://github.com/tanglesites-git/vanilla_web_components/issues/2) in [tanglesites-git/vanilla_web_components](https://github.com/tanglesites-git/vanilla_web_components)
+2. ❗ Opened issue [#1](https://github.com/tanglesites-git/vanilla_web_components/issues/1) in [tanglesites-git/vanilla_web_components](https://github.com/tanglesites-git/vanilla_web_components)
 <!--END_SECTION:activity-->
