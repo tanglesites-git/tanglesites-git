@@ -53,6 +53,6 @@
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/tanglesites-git/vanilla_web_components/issues/2) in [tanglesites-git/vanilla_web_components](https://github.com/tanglesites-git/vanilla_web_components)
-2. ❗ Opened issue [#1](https://github.com/tanglesites-git/vanilla_web_components/issues/1) in [tanglesites-git/vanilla_web_components](https://github.com/tanglesites-git/vanilla_web_components)
+1. ❗ Opened issue [#3](https://github.com/tanglesites-git/DestinyViewer/issues/3) in [tanglesites-git/DestinyViewer](https://github.com/tanglesites-git/DestinyViewer)
+2. ❗ Opened issue [#2](https://github.com/tanglesites-git/DestinyViewer/issues/2) in [tanglesites-git/DestinyViewer](https://github.com/tanglesites-git/DestinyViewer)
 <!--END_SECTION:activity-->
