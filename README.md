@@ -39,6 +39,7 @@
 
 [![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=DestinyViewer&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/Destiny2App)
 [![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=BudgetApp&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/ColorSpaces)
+[![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=BudgetApp&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/eight_bit_adder)
 
 ---
 
