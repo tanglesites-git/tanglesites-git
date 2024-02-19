@@ -54,6 +54,6 @@
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/tanglesites-git/eight_bit_adder/issues/1) in [tanglesites-git/eight_bit_adder](https://github.com/tanglesites-git/eight_bit_adder)
-2. ❗ Opened issue [#2](https://github.com/tanglesites-git/Destiny2App/issues/2) in [tanglesites-git/Destiny2App](https://github.com/tanglesites-git/Destiny2App)
+1. 🎉 Merged PR [#3](https://github.com/tanglesites-git/tanglesites-git/pull/3) in [tanglesites-git/tanglesites-git](https://github.com/tanglesites-git/tanglesites-git)
+2. 💪 Opened PR [#3](https://github.com/tanglesites-git/tanglesites-git/pull/3) in [tanglesites-git/tanglesites-git](https://github.com/tanglesites-git/tanglesites-git)
 <!--END_SECTION:activity-->
