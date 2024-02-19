@@ -40,6 +40,7 @@
 [![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=D2OV&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/D2OV)
 [![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=ColorSpaces&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/ColorSpaces)
 [![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=eight_bit_adder&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/eight_bit_adder)
+[![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=CommandLineTools&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/CommandLineTools)
 
 ---
 
