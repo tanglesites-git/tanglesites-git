@@ -35,14 +35,6 @@
 
 ---
 
-### Pinned Respositories
-
-| [![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=D2OV&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/D2OV)                       | [![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=ColorSpaces&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/ColorSpaces)           |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=eight_bit_adder&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/eight_bit_adder) | [![Pinned Repository](https://github-readme-stats-rho-cyan-24.vercel.app/api/pin/?username=tanglesites-git&repo=CommandLineTools&theme=chartreuse-dark&hide_border=true)](https://github.com/tanglesites-git/CommandLineTools) |
-
----
-
 ### Information
 
 [![tanglesites GitHub Stats](https://github-readme-stats-rho-cyan-24.vercel.app/api?username=tanglesites-git&show_icons=true&hide_border=false&title_color=ff652f&rank_icon=github&custom_title=Tanglesites%20Stats&show=reviews,prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
